@@ -55,4 +55,4 @@ All operational parameters, energy mode definitions, and sensitive experimental 
 ## Contact
 
 For technical questions, replication reports, or collaboration inquiries:
-themaindeus@proton.me
+**themaindeus@proton.me**
