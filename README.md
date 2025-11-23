@@ -2,7 +2,7 @@
 
 **Author:** Dr. L. Vardien Askel
 **Status:** Open Research Draft
-**Contact:** [themaindeus@proton.me](mailto:themaindeus@proton.me)
+**Contact:** themaindeus@proton.me
 
 ## Overview
 
@@ -55,4 +55,4 @@ All operational parameters, energy mode definitions, and sensitive experimental 
 ## Contact
 
 For technical questions, replication reports, or collaboration inquiries:
-**[themaindeus@proton.me](mailto:themaindeus@proton.me)**
+themaindeus@proton.me
