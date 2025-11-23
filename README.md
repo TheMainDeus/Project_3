@@ -1,4 +1,4 @@
-# Material Independent Energy
+# Persistent Energy Modes Across Material Platforms
 
 **Author:** Dr. L. Vardien Askel
 **Status:** Open Research Draft
